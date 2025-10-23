@@ -35,14 +35,20 @@ NumPy	Numerical operations
 Datetime	Handling date and time formats
 
 🗂️ Project Structure
-ET_Exam_Dennis_Mwai_673/
+ET_Exam_Dennis_Mwai_673
 │
-├── raw_data.csv\n
-├── raw_data.db\n
-├── incremental_data.csv\n
-├── incremental_data.db\n
-├── data_analysis.py      ← (This script)\n
-└── README.md             ← (You are here)\n
+
+├── raw_data.csv
+
+├── raw_data.db
+
+├── incremental_data.csv
+
+├── incremental_data.db
+
+├── data_analysis.py      ← (This script)
+
+└── README.md             ← (You are here)
 
 ⚙️ How It Works
 1️⃣ Data Extraction
