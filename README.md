@@ -1,9 +1,9 @@
-Education Data Analysis — California School Dataset
+Education Data Analysis — California School Dataset\
 
 This project performs data extraction, transformation, and analysis on a dataset containing information about schools across California counties.
 The analysis focuses on racial composition, grade-level distribution, and school types per county using Python, Pandas, and SQLite.
 
-🧠 Project Overview
+🧠 Project Overview\
 
 The dataset (raw_data.csv) contains detailed information about schools, including:
 
@@ -25,7 +25,7 @@ Load (ETL) — Store processed data in a SQLite database and extract the most re
 
 Analyze — Generate descriptive insights and visualizations.
 
-🧩 Technologies Used
+🧩 Technologies Used\
 Tool	Purpose
 Python 3.13	Core programming language
 Pandas	Data manipulation and analysis
@@ -34,7 +34,7 @@ Matplotlib / Seaborn	Data visualization
 NumPy	Numerical operations
 Datetime	Handling date and time formats
 
-🗂️ Project Structure
+🗂️ Project Structure\
 ET_Exam_Dennis_Mwai_673/
 │
 ├── raw_data.csv
